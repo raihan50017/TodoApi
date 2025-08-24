@@ -62,7 +62,7 @@ Swagger UI: `https://localhost:5001/swagger` (or the shown port).
 
 ## Postman
 
-Import the collection at `postman/TodoApi.postman_collection.json`. Set `{{baseUrl}}` (e.g., `https://localhost:5001`).
+Import the collection at `postman/TodoApp.postman_collection.json`. Set `{{baseUrl}}` (e.g., `https://localhost:5001`).
 
 ## Folder Structure
 
